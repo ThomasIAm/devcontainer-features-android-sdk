@@ -1,9 +1,9 @@
-# devcontainer-features
+# devcontainer-features-android-sdk
 
-Collection of miscellaneous `.devcontainer` features.
+Collection of Android `.devcontainer` features.
 
 # Android
 
-### `ghcr.io/NordcomInc/devcontainer-features/android-sdk:1`
+### `ghcr.io/ThomasIAm/devcontainer-features-android-sdk/android-sdk:1`
 
-Setup and update the Android SDK. [View source](https://github.com/NordcomInc/devcontainer-features/tree/master/src/android-sdk).
+Setup and update the Android SDK. [View source](https://github.com/ThomasIAm/devcontainer-features/tree/master/src/android-sdk).
